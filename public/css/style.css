@@ -1,0 +1,11 @@
+.hero{
+    background-color: rgb(148, 148, 148);
+    height: 270px;
+}
+
+.hero h1{
+    text-align: center;
+    color: azure;
+    font-size: 90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
